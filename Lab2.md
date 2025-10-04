@@ -1,4 +1,4 @@
-![USE CASE DIAGRAM](https://github.com/ngothaiduong0102-boop/NMCNPM/blob/main/usecase.png?raw=true)
+![USE CASE DIAGRAM](https://github.com/ngothaiduong0102-boop/NMCNPM/blob/main/usecase.png)
 
 # Use Case Descriptions – Hotel Booking Management System
 

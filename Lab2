@@ -1,1 +1,50 @@
+## 🏨 Mini Project: Hệ thống quản lý đặt phòng khách sạn
+
+### 1. Use Case Diagram (PlantUML demo)
+Bạn có thể render sơ đồ bằng PlantUML hoặc export ra PNG/draw.io để nộp.
+
+```plantuml
+@startuml
+title Use Case Diagram – Hotel Booking Management System
+
+left to right direction
+skinparam actorStyle awesome
+skinparam usecase {
+  BackgroundColor White
+  BorderColor Black
+}
+
+actor Guest
+actor "Receptionist/Admin" as Admin
+actor "Payment Gateway" as PG
+actor "Email Service" as ES
+
+rectangle "Hotel Booking System" {
+  (Search & View Rooms) as UC_Search
+  (Register / Login) as UC_Login
+  (Book Room) as UC_Book
+  (Process Payment) as UC_Pay
+  (Cancel Booking) as UC_Cancel
+  (Manage Booking) as UC_Manage
+  (Check-in / Check-out) as UC_Check
+  (Manage Rooms & Prices) as UC_Rooms
+  (Send Email Notifications) as UC_Notify
+}
+
+Guest -- UC_Search
+Guest -- UC_Login
+Guest -- UC_Book
+Guest -- UC_Cancel
+
+Admin -- UC_Manage
+Admin -- UC_Check
+Admin -- UC_Rooms
+
+PG -- UC_Pay
+ES -- UC_Notify
+
+UC_Book ..> UC_Pay : <<include>>
+UC_Manage ..> UC_Notify : <<include>>
+UC_Cancel ..> UC_Notify : <<include>>
+@enduml
 

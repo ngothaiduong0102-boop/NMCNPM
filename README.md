@@ -20,12 +20,6 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 ![Cinema 4D](https://img.shields.io/badge/Cinema_4D-011A6A?logo=cinema4d&logoColor=white)
 
----
-
-### 🚀 Featured projects
-- 🎥 **[VFX Reel 2025](https://github.com/ngothaiduong0102-boop/vfx-reel-2025)** – Collection of short film effects & compositing.  
-- 🖼 **[Design Showcase](https://github.com/ngothaiduong0102-boop/design-showcase)** – Posters, 3D renders, and motion graphics.  
-- 🌐 **[Portfolio Website](https://github.com/ngothaiduong0102-boop/portfolio)** – My personal site & brand identity.
 
 ---
 
@@ -37,9 +31,8 @@
 ---
 
 ### 📫 Contact
-- ✉️ Email: [yourmail@example.com](mailto:yourmail@example.com)  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- ✉️ Email: [ngothaiduong0102@gmail.com](ngothaiduong0102@gmail.com)  
+- 🌐 Portfolio: [your-portfolio-link.com](https://www.behance.net/ngothaiduong1)  
 
 ---
 

@@ -32,7 +32,7 @@
 
 ### 📫 Contact
 - ✉️ Email: [ngothaiduong0102@gmail.com](ngothaiduong0102@gmail.com)  
-- 🌐 Portfolio: [your-portfolio-link.com](https://www.behance.net/ngothaiduong1)  
+- 🌐 Portfolio: [ngothaiduong-portfolio.com](https://www.behance.net/ngothaiduong1)  
 
 ---
 

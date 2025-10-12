@@ -1,39 +1,49 @@
-# NMCNPM
-<h1 align="center">Hi, I'm Thái Dương 👋</h1>
-<h3 align="center">✨ Visual Effects & Graphic Designer ✨</h3>
+<!-- Header -->
+<h1 align="center">Hi, I'm Duong 👋</h1>
+<p align="center">
+  Passionate about product, e-commerce & AI assistants • Building practical tools and clean UX
+</p>
+
+<!-- Social (badges with real logos) -->
+<p align="center">
+  <a href="mailto:helloconsen@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Email_me-D14836?logo=gmail&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://github.com/ngothaiduong0102-boop">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ngothaiduong0102--boop-181717?logo=github&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://www.facebook.com/">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&logoColor=white&style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-### 👨‍💻 About me
-- 🎬 I specialize in **visual effects (VFX)** and **graphic design**.  
-- 🎨 Passionate about blending **creativity** with **technology** to craft unique digital experiences.  
-- 📚 Always learning new tools to sharpen my design and motion skills.  
-- 🌏 Based in Vietnam.  
+## 🚀 Tech Stack (real logos)
+<!-- skillicons.dev: add/remove icons by editing the comma list -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,vite,nodejs,express,python,fastapi,java,spring,maven,gradle,mysql,postgres,redis,prisma,sqlite,git,github,vercel,docker,linux,postman,figma,ps,ai,pr,ae&perline=12" />
+  </a>
+</p>
 
 ---
 
-### 🧰 Tech Stack
-![After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?logo=adobeaftereffects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
-![Cinema 4D](https://img.shields.io/badge/Cinema_4D-011A6A?logo=cinema4d&logoColor=white)
-
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngothaiduong0102-boop&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngothaiduong0102-boop&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=ngothaiduong0102-boop&theme=radical)
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ngothaiduong0102-boop&show_icons=true&theme=radical" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ngothaiduong0102-boop&theme=radical&hide_border=false" />
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngothaiduong0102-boop&layout=compact&theme=radical" />
+</p>
 
 ---
 
-### 📫 Contact
-- ✉️ Email: [ngothaiduong0102@gmail.com](ngothaiduong0102@gmail.com)  
-- 🌐 Portfolio: [ngothaiduong-portfolio.com](https://www.behance.net/ngothaiduong1)  
+## ✨ About
+- 🎯 Marketing-ops & product person who codes: automation, dashboards, AI chatbots
+- 🧪 Love clean UX, measurable impact, and shipping fast
+- 🧰 Currently exploring: AI agents for e-commerce ops, content pipelines, SEO tooling
 
----
-
-![](https://visitor-badge.laobi.icu/badge?page_id=ngothaiduong0102-boop.ngothaiduong0102-boop)
+<!-- Footer quote -->
+> “Design is intelligence made visible.” — Alina Wheeler
